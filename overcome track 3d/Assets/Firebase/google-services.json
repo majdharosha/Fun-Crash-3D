@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1098179975560",
+    "project_id": "fun-crash-3d",
+    "storage_bucket": "fun-crash-3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098179975560:android:fb2e35b3103e05501b423d",
+        "android_client_info": {
+          "package_name": "com.bedaat.FunCrash3D"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098179975560-pl4poj702elmpvg53bv4lkcecht4be2h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bedaat.FunCrash3D",
+            "certificate_hash": "9ed71398b1ea1e2aa3a3205b257fd174bfda71e4"
+          }
+        },
+        {
+          "client_id": "1098179975560-1ce80cfqec1vvnslljhv653q5hnpff7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnjtVX-f-k25FAQ2mrz8hDRpNuN_vlklw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098179975560-1ce80cfqec1vvnslljhv653q5hnpff7j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

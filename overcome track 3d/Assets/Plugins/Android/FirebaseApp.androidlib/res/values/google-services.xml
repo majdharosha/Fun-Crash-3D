@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_android_client_id,@string/default_web_client_id" xmlns:tools="http://schemas.android.com/tools">
+  <string name="gcm_defaultSenderId" translatable="false">1098179975560</string>
+  <string name="google_storage_bucket" translatable="false">fun-crash-3d.appspot.com</string>
+  <string name="project_id" translatable="false">fun-crash-3d</string>
+  <string name="google_api_key" translatable="false">AIzaSyDnjtVX-f-k25FAQ2mrz8hDRpNuN_vlklw</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDnjtVX-f-k25FAQ2mrz8hDRpNuN_vlklw</string>
+  <string name="google_app_id" translatable="false">1:1098179975560:android:fb2e35b3103e05501b423d</string>
+  <string name="default_android_client_id" translatable="false">1098179975560-pl4poj702elmpvg53bv4lkcecht4be2h.apps.googleusercontent.com</string>
+  <string name="default_web_client_id" translatable="false">1098179975560-1ce80cfqec1vvnslljhv653q5hnpff7j.apps.googleusercontent.com</string>
+</resources>
